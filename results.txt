@@ -1,0 +1,16 @@
+=== A) VALIDACIàN MÖNIMA ===
+Total de filas: 250
+Filas v lidas: 243
+Filas descartadas: 7
+
+=== B) ESTADÖSTICA DESCRIPTIVA ===
+NUM1 (Rating)   -> Stats {suma = 2074.2000000000035, promedio = 8.535802469135817, std = 0.22257858942690245, mediana = 8.5, minimo = 8.3, maximo = 9.2}
+NUM2 (Episodes) -> Stats {suma = 4673.0, promedio = 19.23045267489712, std = 13.337205402303509, mediana = 16.0, minimo = 4.0, maximo = 133.0}
+
+=== C) TRANSFORMACIàN DE TEXTO ===
+L=25, PAD_CHAR='-'
+3 Ejemplos (Original -> Transformado):
+Move to Heaven -> MOVE TO HEAVEN-----------
+Flower of Evil -> FLOWER OF EVIL-----------
+Hospital Playlist -> HOSPITAL PLAYLIST--------
+
